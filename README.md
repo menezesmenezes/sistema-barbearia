@@ -20,7 +20,3 @@ Projeto separado para ficar fácil de apresentar e editar.
 
 Abra o `index.html` com Live Server no VS Code.
 
-Login do painel admin:
-
-- Usuário: `admin`
-- Senha: `1234`
