@@ -59,10 +59,10 @@ Integrantes do Grupo
 | Anna Karolina Pereira da Silva   | 426100550  |
 
 ---
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-* HTML5
-* CSS3
-* JavaScript
-* Supabase
-* SQL
+- HTML5
+- CSS3
+- JavaScript
+- Supabase
+- SQL
