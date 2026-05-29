@@ -4,7 +4,7 @@ Projeto separado para facilitar a apresentação, manutenção e edição do sis
 
 ---
 
- Estrutura do Projeto
+## Estrutura do Projeto
 
 * `index.html` — Estrutura principal da página
 * `css/style.css` — Estilização e visual do sistema
@@ -20,33 +20,33 @@ Projeto separado para facilitar a apresentação, manutenção e edição do sis
 
 ---
 
-Como Executar
+## Como Executar
 
-Abra o arquivo `index.html` utilizando a extensão **Live Server** no VS Code.
+Abra o arquivo `index.html` utilizando a extensão Live Server no VS Code.
 
 ---
 
- Sistema Online
+## Sistema Online
 
-Adicione aqui o link do deploy do projeto:
+Link do sistema online:
 
-```txt
+```txt id="8z13xv"
 https://seu-site.vercel.app
 ```
 
 ---
 
-Vídeo de Apresentação
+## Vídeo de Apresentação
 
 Vídeo do projeto no YouTube:
 
-```txt
+```txt id="i0yfrs"
 https://youtu.be/-DwSFKRLHWU?si=WmLcJ81PyN8bXM8q
 ```
 
 ---
 
-Integrantes do Grupo
+## Integrantes do Grupo
 
 | Nome                             | RA         |
 | -------------------------------- | ---------- |
@@ -59,10 +59,11 @@ Integrantes do Grupo
 | Anna Karolina Pereira da Silva   | 426100550  |
 
 ---
+
 ## Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- Supabase
-- SQL
+* HTML5
+* CSS3
+* JavaScript
+* Supabase
+* SQL
