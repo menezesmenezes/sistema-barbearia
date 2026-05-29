@@ -36,7 +36,7 @@ https://seu-site.vercel.app
 
 ---
 
-## Vídeo de Apresentação
+## Vídeo
 
 Vídeo do projeto no YouTube:
 
@@ -60,7 +60,7 @@ https://youtu.be/-DwSFKRLHWU?si=WmLcJ81PyN8bXM8q
 
 ---
 
-## Tecnologias Utilizadas
+## Utilizadas
 
 * HTML5
 * CSS3
