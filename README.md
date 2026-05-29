@@ -20,3 +20,6 @@ Projeto separado para ficar fácil de apresentar e editar.
 
 Abra o `index.html` com Live Server no VS Code.
 
+##  Vídeo de Apresentação
+
+Link do vídeo: https://youtu.be/-DwSFKRLHWU?si=WmLcJ81PyN8bXM8q
