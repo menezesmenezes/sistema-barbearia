@@ -20,6 +20,18 @@ Projeto separado para ficar fácil de apresentar e editar.
 
 Abra o `index.html` com Live Server no VS Code.
 
-##  Vídeo da Apresentação
+##  Vídeo 
 
 Link do vídeo: https://youtu.be/-DwSFKRLHWU?si=WmLcJ81PyN8bXM8q
+
+Integrantes:
+Jhonata da Silva 
+426103157
+Caua Borges Gustavo 
+426103953
+Guilherme de Oliveira Silva
+426105977
+Caio de Medeiros Patez
+2526101550
+Gilberto de Jesus Menezes Junior 
+425100753
